@@ -77,7 +77,7 @@ Built by weebs for weebs, I specialize in managing anime eccentric communities!
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
+Hey there! My name is *{}*.[⚓](https://telegra.ph//file/3b96becba15af78dfe196.jpg)
 I'm a Hero  help admins manage their groups with One Punch! Have a look at the following for an idea of some of \
 the things I can help you with. 
 product by:- [CG](https://t.me/cgs_technology)[SL](https://t.me/SL_MEDIA_TECH_GRUOP) TEAM
@@ -97,7 +97,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/46e6d9dfcb3eb9eae95d9.jpg"
+SAITAMA_IMG = "https://telegra.ph//file/3b96becba15af78dfe196.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
