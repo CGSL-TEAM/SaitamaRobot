@@ -72,15 +72,15 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hey hi {}, I'm {}!
-I am an Anime themed group management bot.
+I am very power full gruop management bot
 Built by weebs for weebs, I specialize in managing anime eccentric communities!
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a Hero For Fun and help admins manage their groups with One Punch! Have a look at the following for an idea of some of \
-the things I can help you with.
-
+I'm a Hero  help admins manage their groups with One Punch! Have a look at the following for an idea of some of \
+the things I can help you with. 
+product by:- [CG](https://t.me/cgs_technology)[SL](https://t.me/SL_MEDIA_TECH_GRUOP) TEAM
 *Main* commands available:
  • /help: PM's you this message.
  • /help <module name>: PM's you info about that module.
@@ -231,24 +231,24 @@ def start(update: Update, context: CallbackContext):
                                 url=f"https://t.me/{SUPPORT_CHAT}",
                             ),
                             InlineKeyboardButton(
-                                text="🔔 Updates",
-                                url="https://t.me/OnePunchUpdates",
+                                text="🔔 Updates 01",
+                                url="https://t.me/SL_MEDIA_TECH_GRUOP",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🧾 Getting Started",
-                                url="https://t.me/OnePunchUpdates/29",
+                                text="🧾 my sisster🌹",
+                                url="http://t.me/Queen_slmediatech_robot",
                             ),
                             InlineKeyboardButton(
-                                text="🗄 Source code",
-                                url="https://github.com/AnimeKaizoku/SaitamaRobot",
+                                text="🗄 developer",
+                                url="https://t.me/Humangasor",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="☠️ Kaizoku Network",
-                                url="https://t.me/Kaizoku/4",
+                                text="🌷updates 02",
+                                url="https://t.me/cgs_technology",
                             ),
                         ],
                     ],
